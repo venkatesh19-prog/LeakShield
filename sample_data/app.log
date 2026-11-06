@@ -1,0 +1,4 @@
+2026-11-06 09:12:01 [INFO] Booting AuthGateway v4.2 on port 8080
+2026-11-06 09:12:14 [WARN] Failed outbound webhook GET https://api.partner.io/v1/sync?api_key=kp_live_89a7b6c5d4e3f2g1h0j9k8l7m6n5
+2026-11-06 09:13:02 [DEBUG] Incoming request header Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyXzk5MSIsInJvbGUiOiJhZG1pbiJ9.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+2026-11-06 09:14:50 [ERROR] Redis connection timeout on redis://cache_user:R3d1sPr0dAuthKey8821@10.24.1.99:6379/0
